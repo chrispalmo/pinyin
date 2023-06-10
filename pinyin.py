@@ -11,7 +11,7 @@ def create_html_file(output):
     template = '''<html>
     <head>
     <meta charset="utf-8">
-    <title>Hello World</title>
+    <title>Pinyin</title>
     <meta name="theme-color" content="#fafafa">
     <style>
     </style>
