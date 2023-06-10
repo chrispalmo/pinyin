@@ -49,5 +49,5 @@ Note: If the `index.html` file already exists, running the command with `--html`
 The script uses the `jieba` and `pypinyin` libraries for processing the Chinese characters. Make sure you install these Python packages before running the script.
 
 ```shell
-pip3 install jieba pypinyin
+python3 -m pip install jieba pypinyin
 ```
