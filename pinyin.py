@@ -13,10 +13,8 @@ def create_html_file(output):
     <meta charset="utf-8">
     <title>Pinyin</title>
     <meta name="theme-color" content="#fafafa">
-    <style>
-    </style>
     </head>
-    <body>
+    <body style="background-color: black; color: white">
     <div style="white-space: pre-wrap">
     {}
     </div>
